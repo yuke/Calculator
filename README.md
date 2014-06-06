@@ -1,7 +1,5 @@
-Calculator
-==========
-
 Reverse Polish Notation (RPN) Calculator
+========================================
 
 
 The RPN calculator has a stack that can contain real numbers.
